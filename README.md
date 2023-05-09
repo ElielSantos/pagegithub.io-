@@ -6,7 +6,7 @@ public class Aboutpage {
   public static void main(String[] args) {
      final String [] LANGUAGES = {"HTML", "CSS"};
      final String [] CONTACT = Instagram {@cipreste1};
-     final String [] PAGETEST = {https://santosgithub.up.railway.app/}
+     final String [] PAGETEST = {https://pagegithub.vercel.app/}
    }
 }
 ``` 
