@@ -10,4 +10,4 @@ public class Aboutpage {
    }
 }
 ``` 
-![sssa](https://user-images.githubusercontent.com/35500688/232183916-287cbfce-793c-4e3d-b1ae-d41698cfdeb2.jpg)
+ 
